@@ -1,2 +1,2 @@
 # JavaPrimer
-A tutorial Guide to using Java
+A tutorial Guide for Java
